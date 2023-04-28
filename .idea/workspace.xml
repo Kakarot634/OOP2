@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49e187b3-d156-4a2b-8d1e-0aede82c124c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_1_Ke_Thua/LopCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_1_Ke_Thua/LopPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_1_Ke_Thua/LopPoint2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_1_Ke_Thua/Lopconnguoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_1_Ke_Thua/Lopdienthoai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_1_Ke_Thua/Lopdongvat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_1_Ke_Thua/Lopshape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_2_Abstract_Class_va_Interface/Lopdongvat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_3_Xu_Ly_Ngoai_Le/ArrayIndexOutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_3_Xu_Ly_Ngoai_Le/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_3_Xu_Ly_Ngoai_Le/IllegalArgumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_3_Xu_Ly_Ngoai_Le/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_3_Xu_Ly_Ngoai_Le/NemNgoaiLe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_3_Xu_Ly_Ngoai_Le/NumberFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_3_Xu_Ly_Ngoai_Le/SuDungNhieuTry_Catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2_Buoi_3_Xu_Ly_Ngoai_Le/Ternary_Operator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OOusSGFgQzWUH498lSVtfGnLgJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Ternary_Operator">
+    <configuration name="ArrayIndexOutOfBoundsException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP2_Buoi_3_Xu_Ly_Ngoai_Le.ArrayIndexOutOfBoundsException" />
+      <module name="OOP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP2_Buoi_3_Xu_Ly_Ngoai_Le.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Debug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP2_Buoi_3_Xu_Ly_Ngoai_Le.Debug" />
+      <module name="OOP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP2_Buoi_3_Xu_Ly_Ngoai_Le.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP2_Buoi_3_Xu_Ly_Ngoai_Le.GFG" />
+      <module name="OOP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP2_Buoi_3_Xu_Ly_Ngoai_Le.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ternary_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP2_Buoi_3_Xu_Ly_Ngoai_Le.Ternary_Operator" />
+      <module name="OOP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP2_Buoi_3_Xu_Ly_Ngoai_Le.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP2_Buoi_3_Xu_Ly_Ngoai_Le.test" />
+      <module name="OOP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP2_Buoi_3_Xu_Ly_Ngoai_Le.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ternary_Operator" />
+        <item itemvalue="Application.GFG" />
+        <item itemvalue="Application.ArrayIndexOutOfBoundsException" />
+        <item itemvalue="Application.Debug" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49e187b3-d156-4a2b-8d1e-0aede82c124c" name="Changes" comment="" />
+      <created>1681444155640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681444155640</updated>
+      <workItem from="1681444156986" duration="23274000" />
+      <workItem from="1681701398537" duration="15000" />
+      <workItem from="1681701432064" duration="2541000" />
+      <workItem from="1681780961988" duration="9326000" />
+      <workItem from="1681867359526" duration="7166000" />
+      <workItem from="1681920227346" duration="23000" />
+      <workItem from="1682305821450" duration="1062000" />
+      <workItem from="1682473527514" duration="7647000" />
+      <workItem from="1682605478949" duration="3589000" />
+      <workItem from="1682653514828" duration="2690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOP2_Buoi_3_Xu_Ly_Ngoai_Le/Debug.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="a != 0" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/OOP2_Buoi_3_Xu_Ly_Ngoai_Le/Debug.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
